@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import FeedbackWidget from "./FeedbackWidget/FeedbackWidget";
 import FeedbackOptions from "./FeedbackOptions/FeedbackOptions";
 import Statistics from "./Statistics/Statistics";
 import Section from "./Section/Section";
