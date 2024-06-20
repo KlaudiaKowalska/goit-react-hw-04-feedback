@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import FeedbackWidget from "./FeedbackWidget";
-import FeedbackOptions from "./FeedbackOptions";
-import Statistics from "./Statistics";
-import Section from "./Section";
-import Notification from "./Notifications";
+import FeedbackWidget from "./FeedbackWidget/FeedbackWidget";
+import FeedbackOptions from "./FeedbackOptions/FeedbackOptions";
+import Statistics from "./Statistics/Statistics";
+import Section from "./Section/Section";
+import Notification from "./Notifications/Notifications";
 import styles from "./App.module.scss";
 
 function App() {
